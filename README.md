@@ -12,15 +12,9 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 <p align="left">
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
-</p>
-
-## **My GitHub Stats**
-<p align="left">
-  <img src="https://vercel.app" alt="ByteJatin's GitHub Stats" />
 </p>
 
 ## **Learning Archives**
