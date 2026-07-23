@@ -10,11 +10,11 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 
 ## **Tech Stack & Tools**
 <p align="left">
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://jsdelivr.net" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://jsdelivr.net" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://jsdelivr.net" alt="Python" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://jsdelivr.net" alt="Git" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://jsdelivr.net" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
 
 ## **Learning Archives**
@@ -25,9 +25,9 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 ## **Connect With Me**
 <p align="left">
   <a href="https://www.instagram.com/arch.jatin/" target="_blank" rel="noopener noreferrer">
-    ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+    <img src="https://jsdelivr.net" alt="Instagram" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.roblox.com/users/5495416365/profile" target="_blank" rel="noopener noreferrer">
-    ![Roblox Badge](https://img.shields.io/badge/Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white)
+    <img src="https://jsdelivr.net" alt="Roblox" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
