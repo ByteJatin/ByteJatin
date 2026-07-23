@@ -10,7 +10,24 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 
 ## **Tech Stack & Tools**
 
-[![My Tech Stack](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev" alt="HTML5" />
+  <img src="https://skillicons.dev" alt="CSS3" />
+  <img src="https://skillicons.dev" alt="Python" />
+  <img src="https://skillicons.dev" alt="Flask" />
+  <img src="https://skillicons.dev" alt="Roblox" />
+  <img src="https://skillicons.devtorch" alt="PyTorch" />
+  <img src="https://skillicons.dev" alt="TensorFlow" />
+  <img src="https://skillicons.dev" alt="NumPy" />
+  <img src="https://skillicons.dev" alt="Pandas" />
+  <img src="https://skillicons.dev" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev" alt="Matplotlib" />
+  <img src="https://skillicons.dev" alt="Git" />
+  <img src="https://skillicons.devhub" alt="GitHub" />
+  <img src="https://skillicons.dev" alt="Figma" />
+  <img src="https://skillicons.dev" alt="Notion" />
+</p>
+
 
 ## **Learning Archives**
 * 📁 `Read-me` - Documentation and setup logs for my personal profiles.
