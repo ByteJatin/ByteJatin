@@ -10,7 +10,19 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 
 ## **Tech Stack & Tools**
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Flask" />
+  <img src="https://img.shields.io/badge/Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  <img src="https://shields.io" alt="PyTorch" />
+  <img src="https://shields.io" alt="TensorFlow" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Figma" />
+  <img src="https://shields.io" alt="Notion" />
 </p>
 
 ## **Learning Archives**
