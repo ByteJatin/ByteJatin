@@ -9,10 +9,9 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 - **The Mission**: Trying to fit myself above averages.
 
 ## **Tech Stack & Tools**
-
-| HTML5 | CSS3 | Python | Git | GitHub |
-| :---: | :---: | :---: | :---: | :---: |
-| 🌐 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | 🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | 🐍 [Python](https://www.python.org/) | 🌿 [Git](https://git-scm.com/) | 🐙 [GitHub](https://github.com/) |
+<p align="left">
+  <img src="https://skillicons.dev" alt="My Tech Stack" />
+</p>
 
 ## **Learning Archives**
 * 📁 `Read-me` - Documentation and setup logs for my personal profiles.
@@ -20,5 +19,11 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 * 📁 `Roblox-Projects` - *Coming soon* (Luau frameworks, game mechanics, and assets).
 
 ## **Connect With Me**
-- 📸 **Instagram**: [@arch.jatin](https://instagram.com)
-- 🎮 **Roblox Profile**: [ByteJatin](https://roblox.com)
+<p align="left">
+  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://roblox.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  </a>
+</p>
