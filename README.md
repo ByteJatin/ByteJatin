@@ -9,13 +9,10 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 - **The Mission**: Trying to fit myself above averages.
 
 ## **Tech Stack & Tools**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://jsdelivr.net" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://jsdelivr.net" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://jsdelivr.net" alt="Python" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://jsdelivr.net" alt="Git" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://jsdelivr.net" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/></a>
-</p>
+
+| HTML5 | CSS3 | Python | Git | GitHub |
+| :---: | :---: | :---: | :---: | :---: |
+| 🌐 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | 🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | 🐍 [Python](https://www.python.org/) | 🌿 [Git](https://git-scm.com/) | 🐙 [GitHub](https://github.com/) |
 
 ## **Learning Archives**
 * 📁 `Read-me` - Documentation and setup logs for my personal profiles.
@@ -23,11 +20,5 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 * 📁 `Roblox-Projects` - *Coming soon* (Luau frameworks, game mechanics, and assets).
 
 ## **Connect With Me**
-<p align="left">
-  <a href="https://www.instagram.com/arch.jatin/" target="_blank" rel="noopener noreferrer">
-    <img src="https://jsdelivr.net" alt="Instagram" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.roblox.com/users/5495416365/profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://jsdelivr.net" alt="Roblox" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-</p>
+- 📸 **Instagram**: [@arch.jatin](https://instagram.com)
+- 🎮 **Roblox Profile**: [ByteJatin](https://roblox.com)
