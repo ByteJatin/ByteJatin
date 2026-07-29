@@ -1,6 +1,6 @@
-# Hi there, I'm Jatin Rohilla (ByteJatin) 👋
+# Hi there, I'm Jatin Rohilla (ByteJatin) 👋 Welcome to my profile! 
 
-Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder bridging full-time operational leadership with hands-on game development. This space serves as my personal code laboratory where I log my learning journey, daily exercises, and experimental projects.
+I am a Project Manager, Game Producer, and Indie Builder bridging full-time operational leadership with hands-on game development. This space serves as my personal code laboratory where I log my learning journey, daily exercises, and experimental projects.
 
 ## **About Me :)**
 - **Future AI/ML Expert**: Deep diving into machine learning and artificial intelligence architectures to build smarter systems.
@@ -9,8 +9,14 @@ Welcome to my profile! I am a Project Manager, Game Producer, and Indie Builder 
 - **The Mission**: Trying to fit myself above averages.
 
 ## **Tech Stack & Tools**
-
 [![My Tech Stack](https://skillicons.dev)](https://skillicons.dev)
+
+## **Portfolio**
+### 🎮 Roblox Development
+*   **[Project Name/Your Game Title]** - *Brief one-line description of your featured Roblox game or experience (e.g., An immersive multiplayer RPG built on Luau).*
+    *   **Role:** Game Producer & Lead Developer
+    *   **Key Features:** Custom mechanics, optimized Luau frameworks, and interactive UI.
+    *   **Status:** [Active / In Development / Prototype]
 
 ## **Learning Archives**
 * 📁 `Read-me` - Documentation and setup logs for my personal profiles.
