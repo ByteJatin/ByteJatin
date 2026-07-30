@@ -12,10 +12,11 @@ I am a Project Manager, Game Producer, and Indie Builder bridging full-time oper
 [![My Tech Stack](https://skillicons.dev)](https://skillicons.dev)
 
 ## **Portfolio**
-### 🎮 Roblox Development [Soon]
-    *   **Role:** Game Producer & Lead Developer
-    *   **Key Features:** Custom mechanics, optimized Luau frameworks, and interactive UI.
-    *   **Status:** [Active / In Development / Prototype]
+### 🎮 Roblox Development Portfolio :- <a href="https://neostudiox.netlify.app/">neostudiox</a>
+
+- **Role:** Game Producer & Lead Developer
+- **Key Features:** Custom mechanics, optimized Luau frameworks, and interactive UI.
+- **Status:** [Active / In Development / Prototype]
 
 ## **Learning Archives**
 * 📁 `Read-me` - Documentation and setup logs for my personal profiles.
