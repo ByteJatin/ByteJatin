@@ -1,4 +1,4 @@
-# Hi there, I'm Jatin Rohilla (ByteJatin) 👋 Welcome to my profile! 
+# Hi there, I'm Jatin Rohilla (ByteJatin) 👋 Welcome to my Garage! 
 
 I am a Project Manager, Game Producer, and Indie Builder bridging full-time operational leadership with hands-on game development. This space serves as my personal code laboratory where I log my learning journey, daily exercises, and experimental projects.
 
@@ -9,7 +9,7 @@ I am a Project Manager, Game Producer, and Indie Builder bridging full-time oper
 - **The Mission**: Trying to fit myself above averages.
 
 ## **Tech Stack & Tools**
-[![My Tech Stack](https://skillicons.dev)](https://skillicons.dev)
+- [Adding Soon]
 
 ## **Portfolio**
 ### 🎮 Roblox Development Portfolio :- <a href="https://neostudiox.netlify.app/">Roblox Portfolio</a>
