@@ -12,7 +12,8 @@ I am a Project Manager, Game Producer, and Indie Builder bridging full-time oper
 - [Adding Soon]
 
 ## **Portfolio**
-### 🎮 Roblox Development Portfolio :- <a href="https://neostudiox.netlify.app/">Roblox Portfolio</a>
+### Discord/Roblox Nmme: Neo Studiox
+### 🎮 Roblox Development Portfolio: <a href="https://neostudiox.netlify.app/">Roblox Portfolio</a>
 
 - **Role:** Game Producer & Lead Developer
 - **Key Features:** Custom mechanics, optimized Luau frameworks, and interactive UI.
