@@ -1,4 +1,4 @@
-# Hi there, I'm Jatin Rohilla (ByteJatin) 👋 Welcome to my Garage! 
+# Hi there, I'm Jatin Rohilla (ByteJatin) 👋 Welcome to my Tech Garage! 
 
 I am a Project Manager, Game Producer, and Indie Builder bridging full-time operational leadership with hands-on game development. This space serves as my personal code laboratory where I log my learning journey, daily exercises, and experimental projects.
 
