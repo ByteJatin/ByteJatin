@@ -47,7 +47,7 @@ I bridge full-time operational leadership with hands-on game development and sof
 ### 🏗️ **Chronicles of Building (Active Log)**
 | Project | Status | Overview |
 | :--- | :--- | :--- |
-| **Blades Knockout** | 🟢 `ACTIVE` | A fast-paced, Blade Ball-inspired experience featuring a unique NPC twist. |
+| **Blades Knockout** | 🟢 `ACTIVE DEVLOPMENT` | A fast-paced, Blade Ball-inspired experience featuring a unique NPC twist. |
 | **World Building & Environment Art** | 🔵 `IN PROGRESS` | Terrain sculpting, lighting design, and asset placement for immersive, performant open-world environments. |
 | **Team Production Pipeline** | 🟣 `QUEUED` | Implementing structured sprints, task boards, and playtest cycles across small Roblox development teams. |
 | **Tycoon & Simulator Study** | 🟡 `ON HOLD` | Expanding map architecture, environment flow, and scalable progression upgrades. |
