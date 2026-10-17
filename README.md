@@ -1,75 +1,58 @@
-# Jatin Rohilla (ByteJatin / Neo)
-**Project Manager · Game Producer · Roblox Builder · CSE Undergrad**
+# Hi, I’m Jatin Rohilla
 
-Welcome to my tech garage and code laboratory. I am a Computer Science & Engineering undergraduate at **GGSIPU** and a Game Producer & Builder operating under the alias **NeoStudiox**. 
+**CSE undergraduate · Roblox developer · Game producer & project manager**
 
-I bridge operational leadership with hands-on game development and software engineering. Whether I am planning sprints, coordinating dev teams and playtests, or working directly in Roblox Studio and writing code, this space serves as a living devlog of my builds, academic coursework, and technical projects.
+I’m a B.Tech Computer Science & Engineering student at **GGSIPU**, building my foundation in programming while working on Roblox experiences as **NeoStudiox**. Here on GitHub, I go by **ByteJatin**.
 
----
+I enjoy both sides of building: writing code and creating environments, and helping a team plan, collaborate and turn ideas into playable experiences.
 
-## About Me
-- **Game Producer & Builder:** 3.5+ years of experience on the Roblox platform, turning creative concepts into scalable experiences with **75M+ collective visits**.
-- **World & Environment Design:** Focused on terrain sculpting, lighting design, and world-building optimizations—converting legacy assets into modern, high-performance environments.
-- **Production Management:** Applying Agile/Scrum practices, task boards, and structured playtesting pipelines to small, fast-moving dev teams to keep projects shipping.
-- **Academic Background:** B.Tech in Computer Science & Engineering at GGSIPU, focusing on C programming, data structures, algorithms, and core software engineering.
-- **The Mission:** Trying to fit myself above averages by combining high-level project management with direct technical execution.
+**[Explore my portfolio →](https://bytejatin.vercel.app/)** · [Roblox portfolio](https://bytejatin.vercel.app/roblox.html) · [Roblox profile](https://www.roblox.com/users/5495416365/profile)
 
----
+## What I’m working on
 
-## Tech Stack & Arsenal
+- **Computer science:** C programming, data structures, algorithms and clear, step-by-step problem solving.
+- **Software projects:** Python practice projects and an early React frontend for Smriti.
+- **Roblox development:** World building, terrain, lighting, asset placement and environment optimization.
+- **Team production:** Sprint planning, task coordination, team communication and structured playtests.
 
-**Management & Production**
-- **Tools:** Notion, Jira, Trello, Git & GitHub
-- **Workflows:** Agile / Scrum Planning, Sprint Coordination, Playtest Pipelines, Team Communication
+I have **3.5+ years on the Roblox platform** and have contributed to experiences with **75M+ combined visits**.
 
-**Development & Engineering**
-- **Game Dev:** Roblox Studio (Intermediate), Luau, Terrain & Lighting Design, Environment Optimization
-- **Programming:** C, Data Structures & Algorithms
+## Selected repositories
 
----
+| Project | What you’ll find | Stack / stage |
+| --- | --- | --- |
+| **[Portfolio](https://github.com/ByteJatin/Portfolio)** | My deployed portfolio, with separate CSE and Roblox pages, a build gallery and résumés. **[Visit the site](https://bytejatin.vercel.app/)** | HTML, CSS, JavaScript · Deployed on Vercel |
+| **[Smriti](https://github.com/ByteJatin/Smriti)** | An early project exploring memory games, reminders and caregiver support for Smart India Hackathon 2026, Problem Statement 26003. | React, JavaScript, Vite · In development |
+| **[Mini_Projects](https://github.com/ByteJatin/Mini_Projects)** | Beginner programming exercises, starting with a command-line shapes area calculator. | Python · Learning project |
 
-## Portfolio & Build Log
+**Practice:** [Canteen Chaos](https://github.com/ByteJatin/canteen-chaos) is my fork of [bytemait/canteen-chaos](https://github.com/bytemait/canteen-chaos), a web development debugging challenge for Byte Challenge ’26.
 
-### Live Site: [neostudiox.netlify.app](https://neostudiox.netlify.app/)
-> *Producing Games. Building Worlds. Two roles. One builder.*
+## Roblox projects I’ve led
 
-- **Alias:** Neo Studiox (`neostudiox`)
-- **Role:** Project Manager, Game Producer & Builder
-- **Track Record:** 75M+ Contributed Visits | 3.5+ Years Experience
-- **Status:** Open for Work & Collaborations
+These are my own Roblox projects, developed with a team.
 
-### Chronicles of Building
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **Blades Knockout** | `ACTIVE` | Blade Ball-inspired game featuring a custom NPC twist. |
-| **World Building & Environment Art** | `IN PROGRESS` | Terrain sculpting, lighting design, and asset placement for performant open-world environments. |
-| **Team Production Pipeline** | `QUEUED` | Applying sprints, task boards, and playtest cycles to a small Roblox development team. |
-| **Tycoon & Simulator Study** | `HOLD` | Map expansion, environment flow, and scalable upgrade systems. |
+| Project | My role |
+| --- | --- |
+| **[Life on Land](https://www.roblox.com/games/107404216832650/Life-on-Land)** | Owner & Lead Project Manager |
+| **[Blades Knockout](https://www.roblox.com/games/71404096793115/Blades-Knockout)** | Owner & Lead Project Manager |
 
----
+My production work combines planning and coordination with hands-on Roblox Studio work. See my [Roblox portfolio](https://bytejatin.vercel.app/roblox.html) for environment collections, original build screenshots and commission information.
 
-## Learning Archives
-* `Read-me` — Documentation and setup logs for my personal profiles.
-* `CSE-Coursework` — C programming, sorting algorithms, pointers, and engineering fundamentals.
-* `AI-ML-Studies` — *Coming soon* (Data models, algorithms, and training logs).
-* `Roblox-Projects` — *Coming soon* (Luau frameworks, game mechanics, and environment assets).
+## Tools & learning
 
----
+| Area | Current focus |
+| --- | --- |
+| **Programming fundamentals** | C, Python, data structures, algorithms and problem solving |
+| **Web development** | HTML, CSS, JavaScript; learning React and Vite through projects |
+| **Game development** | Roblox Studio, Luau, terrain, lighting and world building |
+| **Production & collaboration** | Git, GitHub, Notion, Jira, Trello, sprint planning and playtesting |
 
-## Connect With Me
-Open to Project Manager, Game Producer, and Roblox team roles, as well as collaborations of any size.
+**Next on my learning roadmap:** AI, machine learning and data models.
 
-<p align="left">
-  <a href="https://neostudiox.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-NeoStudiox-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.roblox.com/users/5495416365/profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Roblox-Profile-FF0000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-  </a>
-  <a href="https://discord.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-neostudiox-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: neostudiox" />
-  </a>
-  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+## Let’s connect
+
+Open to Roblox building, project management and game production opportunities, as well as learning and collaborating on technical projects.
+
+- **Portfolio:** [bytejatin.vercel.app](https://bytejatin.vercel.app/)
+- **Roblox:** [NeoStudiox](https://www.roblox.com/users/5495416365/profile)
+- **Discord:** `neostudiox`
