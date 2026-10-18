@@ -6,7 +6,7 @@ I’m a B.Tech Computer Science & Engineering student at **GGSIPU**, building my
 
 I enjoy both sides of building: writing code and creating environments, and helping a team plan, collaborate and turn ideas into playable experiences.
 
-**[Explore my portfolio →](https://bytejatin.vercel.app/)** · [Roblox portfolio](https://bytejatin.vercel.app/roblox.html) · [Roblox profile](https://www.roblox.com/users/5495416365/profile)
+**[Explore my portfolio →](https://bytejatin.vercel.app/)**· [Roblox profile](https://www.roblox.com/users/5495416365/profile)
 
 ## What I’m working on
 
