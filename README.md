@@ -35,6 +35,8 @@ These are my own Roblox projects, developed with a team.
 | --- | --- |
 | **[Life on Land](https://www.roblox.com/games/107404216832650/Life-on-Land)** | Owner & Lead Project Manager |
 | **[Blades Knockout](https://www.roblox.com/games/71404096793115/Blades-Knockout)** | Owner & Lead Project Manager |
+| **[CLean the_Object](https://www.roblox.com/games/78092808666668/Clean-the-Object)** | Owner & Solo Dev |
+
 
 My production work combines planning and coordination with hands-on Roblox Studio work. See my [Roblox portfolio](https://bytejatin.vercel.app/roblox.html) for environment collections, original build screenshots and commission information.
 
